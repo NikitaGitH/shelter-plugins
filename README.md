@@ -1,5 +1,7 @@
 # S€th's shelter plugins
 
+Code author: https://github.com/riolubruh/YABDP4Nitro?tab=readme-ov-file
+
 ## Getting started
 To install the dependencies and debug `YABDP4Nitro` run:
 ```sh
