@@ -2,7 +2,7 @@
 
 "use strict";
 
-//#region plugins/hello-world/index.jsx
+//#region plugins/YABDP4Nitro/index.jsx
 const { util: { log } } = shelter;
 function onLoad() {
 	log("Hello, World from shelter!");
